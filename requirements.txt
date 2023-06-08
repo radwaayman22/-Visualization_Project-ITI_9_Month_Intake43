@@ -1,3 +1,4 @@
 dash==2.6.0
-pandas
+pandas==1.4.3
+jupyter-dash==0.4.2
 gunicorn
